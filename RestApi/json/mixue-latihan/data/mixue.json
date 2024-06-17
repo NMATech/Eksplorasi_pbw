@@ -1,0 +1,80 @@
+{
+  "icecream": [
+    {
+      "Name": "Chocolate Cookies Smoothies with Ice Cream",
+      "Price": 16000,
+      "Desk": "Chocolate and oreo blended with vanilla ice cream",
+      "photo": "Chocolate-Cookies-Smoothies.jpg"
+    },
+    {
+      "Name": "Sundae",
+      "Price": 16000,
+      "Desk": "Ice cream vanilla",
+      "photo": "sundae.jpg"
+    },
+    {
+      "Name": "Oreo Sundae",
+      "Price": 16000,
+      "Desk": "Crunchy ice cream with chocolate and oreo toppings",
+      "photo": "Oreo-Sundae.jpg"
+    },
+    {
+      "Name": "Vanilla Ice Cream",
+      "Price": 8000,
+      "Desk": "Smooth and delicious vanilla cone ice cream",
+      "photo": "vanila-ice-cream-mixue.jpg"
+    },
+    {
+      "Name": "Boba Sundae",
+      "Price": 16000,
+      "Desk": "Ice Cream with brown sugar syrup sauce and chewy boba topping",
+      "photo": "Boba-Sundae.jpg"
+    }
+  ],
+  "RealFruitTea": [
+    {
+      "Name": "Fresh Squeezed Lemonade",
+      "Price": 10000,
+      "Desk": "Original refreshing lemon juice",
+      "photo": "Fresh-Lemonade.jpg"
+    },
+    {
+      "Name": "Hawaian Fruit Tea",
+      "Price": 22000,
+      "Desk": "A refreshing beverage with passion fruit pearls, sweet mango toppings, and chewy yellow peach jelly",
+      "photo": "Hawaian-fruit-Tea.jpg"
+    },
+    {
+      "Name": "Lemon Earl Grey Tea",
+      "Price": 12000,
+      "Desk": "Earl Grey Tea blends with refreshing natural lemon juice",
+      "photo": "Lemon-Early-Grey-Tea.jpg"
+    }
+  ],
+  "MilkTea": [
+    {
+      "Name": "Oats Milk Tea",
+      "Price": 19000,
+      "Desk": "Crispy oats toppingg milk tea",
+      "photo": "Oats-Milk-Tea.jpg"
+    },
+    {
+      "Name": "Read Bean Milk Tea",
+      "Price": 19000,
+      "Desk": "Milk Tea with red bean topping",
+      "photo": "Read-Bean-Milk-Tea.jpg"
+    },
+    {
+      "Name": "Brown Sugar Pearls Milk Tea",
+      "Price": 19000,
+      "Desk": "Milk tea is complemented with brown sugar and chewy boba toppings",
+      "photo": "Brown-Sugar-Pearl-Milk-Tea-1.jpg"
+    },
+    {
+      "Name": "Pearls Milk Tea",
+      "Price": 19000,
+      "Desk": "Chewy boba topping milk tea",
+      "photo": "Pear-Milk-Tea-1.jpg"
+    }
+  ]
+}

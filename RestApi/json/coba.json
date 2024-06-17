@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Nadindra Maulana Aziz",
+    "umur": 20,
+    "npm": "2210631170139",
+    "lulus": false,
+    "hobby": ["coding", "musik"],
+    "pembimbing": {
+      "pembimbing1": "Kamal Prihandani",
+      "pembimbing2": "Purwantoro"
+    }
+  },
+  {
+    "nama": "Joyce",
+    "umur": 20,
+    "npm": "2210631170001",
+    "lulus": false,
+    "hobby": ["musik", "dance"],
+    "pembimbing": {
+      "pembimbing1": "Chaerur Rozikin",
+      "pembimbing2": "Betha Nurinasari"
+    }
+  }
+]
